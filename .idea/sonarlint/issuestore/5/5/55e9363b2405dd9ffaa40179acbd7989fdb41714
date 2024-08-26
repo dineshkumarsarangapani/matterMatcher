@@ -1,0 +1,22 @@
+
+•
+java:S1192>"MDefine a constant instead of duplicating this literal "matterClient" 5 times.(Ó­ÿÂøÿÿÿÿ8Îõ“ú˜2J$4340ffc9-a86f-403d-8494-f20d52c303de
+Œ
+java:S1192="IDefine a constant instead of duplicating this literal "John Doe" 3 times.(á à8Ïõ“ú˜2J$7ae96884-d197-445d-9730-e92f76ea6754
+
+java:S1192;"KDefine a constant instead of duplicating this literal "Litigation" 3 times.(¤‹Œ¡8Ïõ“ú˜2J$cea24008-dcda-4df5-8aa4-03c882e94b6b
+
+java:S1192:"KDefine a constant instead of duplicating this literal "Legal Case" 3 times.(Í¾Ñ|8Ïõ“ú˜2J$59bbc92f-eff7-4402-891a-de1c01a0fe74
+•
+java:S1192<"MDefine a constant instead of duplicating this literal "jurisdiction" 5 times.(¹ŞŸÏùÿÿÿÿ8Ïõ“ú˜2J$ed6ef772-5ee1-44ca-bb01-41e6d9a176a4
+
+java:S1192:"KDefine a constant instead of duplicating this literal "matterType" 5 times.(Í¾Ñ|8Ïõ“ú˜2J$70dfc310-413f-4799-a510-d9a7869f1b85
+‘
+java:S1192>"IDefine a constant instead of duplicating this literal "Client A" 4 times.(Ó­ÿÂøÿÿÿÿ8Ğõ“ú˜2J$85533a23-bf3d-4bc8-b6f4-c4385e1a6f56
+‘
+java:S1192;"NDefine a constant instead of duplicating this literal "matterSubtype" 5 times.(¤‹Œ¡8Ğõ“ú˜2J$e42cbc33-f9ac-40ca-afd0-318bddd2991c
+
+java:S1192="LDefine a constant instead of duplicating this literal "matterOwner" 5 times.(á à8Ğõ“ú˜2J$803a6a33-5dc6-419c-bfb3-5fe0afbe7ea6
+m	java:S106i"+Replace this use of System.out by a logger.(îıè8éõ“ú˜2J$cf11484c-72ca-4fbd-aa48-b62fb2c526af
+m	java:S106j"+Replace this use of System.out by a logger.(Äùì›8êõ“ú˜2J$303501b5-cc62-4bee-af27-85e0559719f1
+r	java:S106k"+Replace this use of System.out by a logger.(ˆö»«üÿÿÿÿ8êõ“ú˜2J$e46e3626-e5ac-4000-929d-e87c36d560c6

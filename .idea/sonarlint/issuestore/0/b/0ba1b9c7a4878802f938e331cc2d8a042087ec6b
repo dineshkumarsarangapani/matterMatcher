@@ -1,0 +1,8 @@
+
+…
+java:S1854
+"BRemove this useless assignment to local variable "matchingFields".(¡ÉŸÊ8¯–ƒú˜2J$3f2274b2-1eb0-425e-881a-3474f478643d
+v
+java:S1481
+"3Remove this unused "matchingFields" local variable.(¡ÉŸÊ8²–ƒú˜2J$f9d870e9-f559-452a-a19c-6284071a27e3
+r	java:S106"+Replace this use of System.out by a logger.(€¹•ôýÿÿÿÿ8ŸÌÇù˜2J$f4e91dc4-65b6-44dd-8f8d-94bb0f8cf3f5
